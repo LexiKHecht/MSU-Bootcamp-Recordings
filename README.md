@@ -1,8 +1,10 @@
 # MSU-Bootcamp-Recordings
-Zoom recordings from MSU Full Stack Bootcamp
+Zoom video and audio recordings from MSU Full Stack Bootcamp
+
+🎥🔊
 
  ## Table of Contents
-
+(click through to navigate pages)
   * [HTML CSS and Git](https://github.com/LexiKHecht/MSU-Bootcamp-Recordings/blob/main/HTML%20CSS%20and%20Git.md)
   * [Advanced CSS](https://github.com/LexiKHecht/MSU-Bootcamp-Recordings/blob/main/Advanced%20CSS.md)
   * [JavaScript](https://github.com/LexiKHecht/MSU-Bootcamp-Recordings/blob/main/JavaScript.md)
