@@ -59,19 +59,19 @@
 - [Audio](https://zoom.us/rec/play/58QyZqx1eA-iYEKg5yH1HFPFzcLEk1XLByXbjnrEJi7wZGFCHmKTU8ljMBlM6EvJcPN6reuoDol_6RcC.-jUSilLqG2llpYhk)
 
 ## Presentations
- 📌 will update once out
+
 #### Group 1
-- [Video](h)
-- [Audio]()
+- [Video](https://zoom.us/rec/play/UULzfxqSIhTQeRkSj6P1OffVEgYtR8uUGGoudPMZkrHxxawN-eSUT1WqQvo_sjXIAaPnMvkM65s4shaY.JzWlCaMuLuhpQFUu)
+- [Audio](https://zoom.us/rec/play/IhL3DIyz_xg9m6duvP4xCSFS7xy2dBrztUw7sjXjtVGaGtdJ3pcatevIZzgovD9pZOs_SPCxJCZUXiz8.4ghOcf5ENYl9P7Fi)
 
 #### Group 2
-- [Video]()
-- [Audio]()
+- [Video](https://zoom.us/rec/play/IcwkuudYcrO0aRbyzUrvj2esdF_PV8-QpRFHbf_laVgi94DLmfUf_o7Qn-58ceNg8u6M7YOOC92yx_I.hEq2iTtlQmACthNL)
+- [Audio](https://zoom.us/rec/play/miggaEk2wIWkktxlPeKqVjyKYDsewsdoksLUMbihA4HIQKMhXbCzpqxOGwkIqcllgxcRkGbTk3Vc3fku.cO4FW4L4JixUgKt9)
 
 #### Group 3
-- [Video]()
-- [Audio]()
+- [Video](https://zoom.us/rec/play/_XbQ_mzAvQDresi8Qzzg7RqHPB04WK7lnpYlDeFmrL35_Ee1ldEHNq2ZGZAhmGZlHR0pzv8ILFOyoiHj.liePTSn_iiPKFv1p)
+- [Audio](https://zoom.us/rec/play/zuHiB8r-PlM5_vUT7iVgUEeE1rhCDVAXfPIZsoZnF6yksdyMt7gA80qWC1RRqtTav4vT0M-LRTuR8du2.tRPWJWwJc2x2e00c)
 
 #### Group 4
-- [Video]()
-- [Audio]()
+- [Video](https://zoom.us/rec/play/Q0YBNuRgrbKiEDn2BlY8D8EJjXVCrRfNd081b1lgMXfLLmJIybTI6s3L4JnHz9WY9eF47W6lNCypzxG9.m_p1G1_M2p6W2qnR)
+- [Audio](https://zoom.us/rec/play/oVPjFMJlLZlluOjhqt77--ifsphU0t72J2F9XE8DHagLrbY27VF8xBZKS4fccwNhGXDdO_KGMHWt4d2c.r_sxd850RL1aQ-N1)
