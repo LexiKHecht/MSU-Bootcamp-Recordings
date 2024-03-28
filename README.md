@@ -3,7 +3,7 @@ Zoom recordings from MSU Full Stack Bootcamp
 
  ## Table of Contents
 
-  * [React](React)
+  * [React](React.md)
   * [Usage](#usage)
   * [License](#license)
   * [Test](#tests)
