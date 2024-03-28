@@ -4,7 +4,7 @@ Zoom recordings from MSU Full Stack Bootcamp
  ## Table of Contents
 
   * [HTML CSS and Git](#HTML-CSS-and-Git.md)
-  * [Advanced CSS](Advanced-CSS.md)
+  * [Advanced CSS](https://github.com/LexiKHecht/MSU-Bootcamp-Recordings/blob/main/Advanced%20CSS.md)
   * [JavaScript](JavaScript.md)
   * [Web APIs](Web-APIs.md)
   * [Third-Party APIs](Third-Party-APIs.md)
@@ -22,8 +22,3 @@ Zoom recordings from MSU Full Stack Bootcamp
   * [MERN](MERN.md)
   * [State](State.md)
 
-
-
-
-
-## HTML CSS and Git.md
