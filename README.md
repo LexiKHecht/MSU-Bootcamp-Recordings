@@ -1,7 +1,7 @@
 # MSU-Bootcamp-Recordings
 Zoom video and audio recordings from MSU Full Stack Bootcamp
 
-🎥🔊
+🎥 🔊
 
  ## Table of Contents
 (click through to navigate pages)
