@@ -3,7 +3,7 @@ Zoom recordings from MSU Full Stack Bootcamp
 
  ## Table of Contents
 
-  * [HTML, CSS, and Git](HTML,-CSS,-and-Git.md)
+  * [HTML CSS and Git](HTML-CSS-and-Git.md)
   * [Advanced CSS](Advanced-CSS.md)
   * [JavaScript](JavaScript.md)
   * [Web APIs](Web-APIs.md)
